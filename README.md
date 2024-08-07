@@ -1,0 +1,1 @@
+# Begleitmaterial zum BayWISS-Workshop
